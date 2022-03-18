@@ -1,0 +1,34 @@
+.container
+{
+    text-align: center;
+
+}
+h2
+{
+  color: aquamarine;
+    text-align: center;
+
+}
+ .container {
+    border-radius: 50%;
+    }
+
+
+    p {
+        font-size: 10px ;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        margin-top: 0;
+    
+    }
+    .terzaimmagine {
+        -moz-border-radius: 180px;
+        -webkit-border-radius: 180px;
+        border-radius: 180px;
+    }
+    
+   
+    
